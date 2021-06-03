@@ -2,7 +2,11 @@ import cv2
 import mediapipe as mp
 import time
 
+frameWidth = 1280
+frameHeight = 720
 cap = cv2.VideoCapture(0)
+cap.set(3, frameWidth)
+cap.set(4, frameHeight)
 mpHands=mp.solutions.hands
 hands=mpHands.Hands()
 mpDraw = mp.solutions.drawing_utils
