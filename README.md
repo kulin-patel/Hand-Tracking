@@ -9,5 +9,5 @@ I have done this with OpenCV  and Mediapipe.
 
 <img src="https://raw.githubusercontent.com/kulin-patel/Hand-Tracking/master/hand_landmarks.png" width="700" height="200" >
 
-<img src="https://raw.githubusercontent.com/kulin-patel/Hand-Tracking/master/thumbs_up.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/kulin-patel/Hand-Tracking/master/Output_thumbs_up.png" width="500" height="500">
 
