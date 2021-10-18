@@ -1,3 +1,8 @@
+Some people tag this GitHub repo, but forget to mention my linkedin account. :wink:  hahah
+
+[Link to My Linkedin Account](https://www.linkedin.com/in/kulin-patel/)
+Instagram: kulin_patel_
+
 # Hand-Tracking
 Here is output from test video.
 
